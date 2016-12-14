@@ -4,7 +4,7 @@ and isn't recorded. FitFix recovers the lost data using speed at the loss moment
 
 ## Installation
 * Obtain Fit SDK from https://www.thisisant.com/resources/fit.
-* ```cp fitsdk/java/FitCSVTool.jar .```
+* Copy FitCSVTool.jar to FitFix's directory: ```cp fitsdk/java/FitCSVTool.jar .```
 
 ## Usage
 Run:
